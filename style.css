@@ -1,0 +1,56 @@
+.container{
+    text-align: center;
+    margin-top:23px ;
+}
+table{
+    margin: auto;
+}
+
+
+input{
+    padding: 8px;
+    font-size: 30px;
+    border: 2px solid rgb(79, 58, 107);
+    border-radius: 23px;
+    margin-bottom: 20px;
+    margin-top: 28px;
+}
+button{
+    font-size: 30px;
+    text-align: center;
+    width: 94px;
+    height: 60px;
+    border: none;
+    border-radius: 21px;
+}
+button:focus{
+    border: 2px solid black;
+    text-decoration: underline;
+    color:#000;
+
+}
+.calculator{
+    
+    padding: 10px;
+    display: inline-block;
+    border: 0.2px solid rgb(148, 146, 146);
+    border-radius: 21px;
+    background-color: rgb(61, 59, 59);
+    box-shadow: 6px 20px 2px rgb(53, 52, 52);
+}
+.eual_btn{
+    background-color: rgb(250, 236, 40);
+}
+.clear_btn{
+    background-color: rgb(253, 13, 13);
+}
+h4{
+    
+    color: white;
+    margin: 0px;
+    margin-top: 10px;
+    position: relative;
+    top: 2px;
+    left: -99px;
+    
+}
